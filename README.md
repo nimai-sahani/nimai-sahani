@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Nimai 👋
+AI & Web Developer | CreatorBoostAI | Gamified Learning | Passionate about Science & Tech
 
-<!--
-**nimai-sahani/nimai-sahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter(X) Follow](https://img.shields.io/twitter/follow/your_twitter?style=social)](https://twitter.com/nimai-sahani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nimai-blue)](https://linkedin.com/in/nimai-sahani)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://yourwebsite.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tech Stack
+- **Languages:** JavaScript, Python, C, C#, SQL
+- **Frameworks:** React, Node.js, TailwindCSS
+- **AI & ML:** OpenAI APIs, LangChain, Prompt Engineering
+- **Tools:** Git, GitHub, VS Code, Figma, Postman
+- **Other Interests:** Game Development, IoT, Cybersecurity
+
+---
+
+## 💻 Projects
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| CreatorBoostAI | AI-based content tools for creators | React, TailwindCSS |
+| EduKhel | Gamified learning platform | React, Node.js, Firebase |
+| RakshakX | Women safety app | React Native, Node.js |
+
+---
+
+## 🌱 Currently Learning
+- Advanced AI integration for apps  
+- Full-stack SaaS development  
+- Real-time multiplayer games  
+
+---
+
+## 📫 Connect with me
+- Twitter: [@YourHandle](https://twitter.com/nimai-sahani)  
+- LinkedIn: [Nimai Sahani](https://linkedin.com/in/nimai-sahani)  
+- YouTube: [NIMAI SAHANI](https://www.youtube.com/@NimaiInsight))
+
+---
+
