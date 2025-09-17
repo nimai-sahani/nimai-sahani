@@ -1,7 +1,7 @@
 # Hi, I'm Nimai 👋
 AI & Web Developer | CreatorBoostAI | Gamified Learning | Passionate about Science & Tech
 
-[![Twitter(X) Follow](https://img.shields.io/twitter/follow/your_twitter?style=social)](https://x.com/nimaisahani7)
+[![Twitter(X) Follow](https://img.shields.io/twitter/follow/Nimai?style=social)](https://x.com/nimaisahani7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nimai-blue)](https://linkedin.com/in/nimai-sahani)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://yourwebsite.com)
 
@@ -33,7 +33,7 @@ AI & Web Developer | CreatorBoostAI | Gamified Learning | Passionate about Scien
 ---
 
 ## 📫 Connect with me
-- Twitter: [@YourHandle](https://x.com/nimaisahani7)  
+- Twitter: [Nimai Sahani](https://x.com/nimaisahani7)  
 - LinkedIn: [Nimai Sahani](https://linkedin.com/in/nimai-sahani)  
 - YouTube: [NIMAI SAHANI](https://www.youtube.com/@NimaiInsight))
 
